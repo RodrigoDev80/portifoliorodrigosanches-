@@ -589,7 +589,7 @@ footer h2:hover{
         position: absolute;
         max-width: 100%;
         margin-inline-start: -132px;
-        margin-top: -2.8%;
+        margin-top: -13.8%;
         animation: animate 10s linear infinite;
         animation-delay: calc(-1s = var(--i));
         }
